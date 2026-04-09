@@ -6,7 +6,7 @@ export const foods = [
     description:
       "The legendary 160-spice seekh kebab from the iconic Tunday Kababi restaurant, originating from the court of Nawab Wajid Ali Shah. Melt-in-your-mouth minced buffalo meat kebabs.",
     origin: "Nawabi era (mid-19th century)",
-    image: "https://picsum.photos/seed/tunday-kababi/600/400",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Tunday_Kebabs.jpg/800px-Tunday_Kebabs.jpg",
     rating: 4.9,
     mustTry: true,
     spiceLevel: "Medium",
@@ -19,7 +19,7 @@ export const foods = [
     description:
       "The aromatic Awadhi Dum Biryani, cooked in sealed vessels (dum style) with fragrant basmati rice, tender mutton, saffron, and an exquisite blend of spices — a royal feast in every bite.",
     origin: "Awadhi royal kitchens",
-    image: "https://picsum.photos/seed/lucknowi-biryani/600/400",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Awadhi_mutton_biryani.jpg/800px-Awadhi_mutton_biryani.jpg",
     rating: 4.8,
     mustTry: true,
     spiceLevel: "Mild to Medium",
@@ -32,7 +32,7 @@ export const foods = [
     description:
       "Created for a toothless Nawab, these ultra-soft kebabs are made from finely minced meat mixed with over 100 spices. So tender they literally melt on the tongue.",
     origin: "19th-century Nawabi kitchens",
-    image: "https://picsum.photos/seed/galouti-kebab/600/400",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Galouti_Kabab_from_Tunday_Kababi_Lucknow_2009-01-06.jpg/800px-Galouti_Kabab_from_Tunday_Kababi_Lucknow_2009-01-06.jpg",
     rating: 4.7,
     mustTry: true,
     spiceLevel: "Mild",
@@ -45,7 +45,7 @@ export const foods = [
     description:
       "A mildly sweet, saffron-flavored flatbread baked in a traditional tandoor oven. A staple of Awadhi cuisine, best enjoyed with rich curries and kebabs.",
     origin: "Persian-Awadhi cuisine",
-    image: "https://picsum.photos/seed/sheermal-bread/600/400",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Sheermal_bread_made_in_Iran.jpg/800px-Sheermal_bread_made_in_Iran.jpg",
     rating: 4.5,
     mustTry: false,
     spiceLevel: "None",
@@ -58,7 +58,7 @@ export const foods = [
     description:
       "Lucknow's signature street food — a crispy edible basket filled with tangy potato filling, chutneys, yogurt, and sev. A delightful explosion of flavors in every bite.",
     origin: "Chowk area, Lucknow",
-    image: "https://picsum.photos/seed/basket-chaat/600/400",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Awadhi_chaat_corner.jpg/800px-Awadhi_chaat_corner.jpg",
     rating: 4.6,
     mustTry: true,
     spiceLevel: "Medium",
@@ -71,7 +71,7 @@ export const foods = [
     description:
       "A beloved dessert — dense, creamy kulfi (Indian ice cream) served over thin vermicelli noodles, rose syrup, basil seeds, and milk. The perfect sweet ending to an Awadhi meal.",
     origin: "Mughal-era India",
-    image: "https://picsum.photos/seed/kulfi-falooda/600/400",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Matka_kulfi.jpg/800px-Matka_kulfi.jpg",
     rating: 4.7,
     mustTry: true,
     spiceLevel: "None",

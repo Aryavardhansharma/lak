@@ -188,16 +188,16 @@
 }
 
 .bannerLarge {
-  background: url("https://picsum.photos/seed/imambara-banner/800/600") center/cover no-repeat;
+  background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Bara_Imambara_Lucknow.jpg/800px-Bara_Imambara_Lucknow.jpg") center/cover no-repeat;
 }
 
 .bannerSmall:nth-child(1) {
-  background: url("https://picsum.photos/seed/food-banner/600/400") center/cover no-repeat;
+  background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Tunday_Kebabs.jpg/600px-Tunday_Kebabs.jpg") center/cover no-repeat;
   flex: 1;
 }
 
 .bannerSmall:nth-child(2) {
-  background: url("https://picsum.photos/seed/culture-banner/600/400") center/cover no-repeat;
+  background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Chhota_imambara_Lucknow.jpg/600px-Chhota_imambara_Lucknow.jpg") center/cover no-repeat;
   flex: 1;
 }
 
